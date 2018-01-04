@@ -1,0 +1,3 @@
+rootProject.name = 'modalTest'
+
+include ':app'
